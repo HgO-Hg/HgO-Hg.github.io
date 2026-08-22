@@ -1,0 +1,38 @@
+/* 全局背景 */
+@import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css');
+
+body {
+  background-color: #f7f9fc;
+  font-family: 'LXGW WenKai', 'PingFang SC', sans-serif;
+}
+
+/* 修改主色调 */
+:root {
+  --main-color: #2e62ff;
+}
+
+/* 文章卡片圆角与阴影 */
+.post-card {
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+  transition: all 0.3s ease;
+}
+
+.post-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
+}
+
+/* 自定义滚动条 */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #00b9f2;
+  border-radius: 4px;
+}
+/* 针对 Firefox 的兼容写法 */
+* {
+  scrollbar-width: thin;          /* 让滚动条变细 */
+  scrollbar-color: #ccc transparent; /* 滑块灰色，轨道透明 */
+}

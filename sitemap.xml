@@ -4,7 +4,7 @@
   <url>
     <loc>http://hgo-hg.github.io/2026/08/22/Hg%E5%92%8CHexo/</loc>
     
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,16 +13,7 @@
   <url>
     <loc>http://hgo-hg.github.io/about/index.html</loc>
     
-    <lastmod>2026-08-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://hgo-hg.github.io/2026/08/22/hello-world/</loc>
-    
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,7 @@
 
   <url>
     <loc>http://hgo-hg.github.io/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,14 +30,14 @@
   
   <url>
     <loc>http://hgo-hg.github.io/tags/Hexo/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://hgo-hg.github.io/tags/Blog/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

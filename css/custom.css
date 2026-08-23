@@ -1,11 +1,6 @@
 /* 全局背景 */
 @import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css');
 
-body {
-  background-color: #f7f9fc;
-  font-family: 'LXGW WenKai', 'PingFang SC', sans-serif;
-}
-
 /* 修改主色调 */
 :root {
   --main-color: #2e62ff;
@@ -18,18 +13,31 @@ body {
   transition: all 0.3s ease;
 }
 
+/* 封面图片圆角 */
+.post-card .post-cover img {
+  border-radius: var(--border-radius) var(--border-radius) 0 0;
+}
+
 .post-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
 }
 
-/* 自定义滚动条 */
 ::-webkit-scrollbar {
   width: 8px;
+  height: 8px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #00b9f2;
+  background: #c1c7cd;
   border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a0a6ad;
+}
+
+::selection {
+  background: var(--main-color);
+  color: #fff;
 }
 /* 针对 Firefox 的兼容写法 */
 * {

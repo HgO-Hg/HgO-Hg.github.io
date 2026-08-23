@@ -5,7 +5,9 @@
 :root {
   --main-color: #2e62ff;
 }
-
+body {
+  background-color: var(--global-bg);
+}
 /* 文章卡片圆角与阴影 */
 .post-card {
   border-radius: 16px;

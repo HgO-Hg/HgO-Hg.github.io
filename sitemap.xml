@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hgo-hg.github.io/2026/09/12/Hg%E4%B8%8E18%E5%B2%81/</loc>
+    
+    <lastmod>2026-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://hgo-hg.github.io/2026/08/22/Hg%E5%92%8CHexo/</loc>
     
     <lastmod>2026-08-23</lastmod>
@@ -22,22 +31,29 @@
 
   <url>
     <loc>http://hgo-hg.github.io/</loc>
-    <lastmod>2026-08-29</lastmod>
+    <lastmod>2026-09-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://hgo-hg.github.io/tags/Hexo/</loc>
-    <lastmod>2026-08-29</lastmod>
+    <loc>http://hgo-hg.github.io/tags/Hg/</loc>
+    <lastmod>2026-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://hgo-hg.github.io/tags/Blog/</loc>
-    <lastmod>2026-08-29</lastmod>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://hgo-hg.github.io/tags/Hexo/</loc>
+    <lastmod>2026-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

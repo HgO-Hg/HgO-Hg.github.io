@@ -5,6 +5,6 @@ http://hgo-hg.github.io/about/index.html
 http://hgo-hg.github.io/
 http://hgo-hg.github.io/tags/tools/
 http://hgo-hg.github.io/tags/AI/
-http://hgo-hg.github.io/tags/Hg/
-http://hgo-hg.github.io/tags/Blog/
 http://hgo-hg.github.io/tags/Hexo/
+http://hgo-hg.github.io/tags/Blog/
+http://hgo-hg.github.io/tags/Hg/

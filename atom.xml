@@ -12,7 +12,23 @@
     <![CDATA[Ciallo~(∠・ω< )⌒★]]>
   </subtitle>
   <title>HgO-Hg Blog</title>
-  <updated>2026-09-13T04:46:38.850Z</updated>
+  <updated>2026-10-24T16:10:07.930Z</updated>
+  <entry>
+    <author>
+      <name>HgO-Hg</name>
+    </author>
+    <category term="tools" scheme="http://hgo-hg.github.io/tags/tools/"/>
+    <category term="AI" scheme="http://hgo-hg.github.io/tags/AI/"/>
+    <content>
+      <![CDATA[<h1 id="文件中转网站和神奇的AI"><a href="#文件中转网站和神奇的AI" class="headerlink" title="文件中转网站和神奇的AI"></a>文件中转网站和神奇的AI</h1><h2 id="关于文件中转网站"><a href="#关于文件中转网站" class="headerlink" title="关于文件中转网站"></a>关于文件中转网站</h2><p>晚上好,我的朋友.</p><p>我最近在做一个文件中转站的项目.这是落地成果:<br><a href="https://file.hgo-hg.com/">Website</a> “链接世界”</p><p>这是一个用于转移文件的网站.你也许注意到了我购买了个域名(国内买个域名真麻烦 我在国外买的),花费整整115.99大洋(哭</p><p>如果想使用这个网站以传输文件,请随意使用.注意事项和使用方法会在后文提到.<strong>请确认在需要使用此网站的所有地方都有网络连接.</strong></p><div class="note primary flat"><p><em>我强烈建议您在使用此网站前认真阅读使用说明,注意事项和免责声明.</em></p></div><h2 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h2><p><em>我强烈建议您在阅读完使用说明以后阅读注意事项和免责声明</em></p><p>想使用文件中转网站,请访问<a href="https://file.hgo-hg.com/">文件中转网站</a></p><h3 id="上传文件"><a href="#上传文件" class="headerlink" title="上传文件"></a>上传文件</h3><p>在网站界面中的 <em>“上传文件”</em> 中选择您想上传的文件,点击 <em>“保存时长”</em> 以选择您希望在此网站保存的时长.如果您非专业人员,*”分片大小”*请勿调整.请规范使用 <em>“存放分区”</em> 中的区域,合理划分.</p><p><img src="/img/photo3-1.png" alt="demo"></p><p>接着,点击 <em>“开始上传”</em> 上传您的文件.上传成功后会收到提示.</p><h3 id="下载文件"><a href="#下载文件" class="headerlink" title="下载文件"></a>下载文件</h3><p>在网站界面中的 <em>“取件&#x2F;下载”</em> 中选择您想下载的文件所在的分区,点击 <em>“刷新列表”</em> 找寻您所想下载的文件.*”按链接直接取”*不推荐使用.</p><p><img src="/img/photo3-2.png" alt="demo"></p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><div class="note warning flat"><p><strong>请仔细阅读<em>注意事项</em></strong></p></div><h3 id="保存时长"><a href="#保存时长" class="headerlink" title="保存时长"></a>保存时长</h3><p>上传前可在“保存时长”里选择 1 小时到 30 天，或选永久.到期后链接自动失效，文件会被清理，请及时下载.<strong>重要提示:如需长期留存文件请联系站主.如果未经允许上传永久文件会被站主手动清理</strong>.</p><h3 id="安全性提示"><a href="#安全性提示" class="headerlink" title="安全性提示"></a>安全性提示</h3><p><em><strong>本网站为实验性项目</strong></em>,这意味着站主将<strong>不对上传的文件的安全性负责</strong>,请谨慎下载.同时站主不对网站的<strong>稳定性</strong>做出任何保证.</p><p>本网站无法对任何上传的文件进行<em>安全性检测</em>,也无法保证能够及时发现和清理相关文件.请注意谨慎下载您<strong>不信任的文件</strong></p><p>本网站为<em>公开界面</em>,这意味着任何人都可以访问此网站并且获取存放在其中的文件.请注意防止<strong>文件泄露</strong>.</p><h3 id="上传-下载须知"><a href="#上传-下载须知" class="headerlink" title="上传&#x2F;下载须知"></a>上传&#x2F;下载须知</h3><div class="note warning 注意 flat"><p>重要:受到后端下载限制,此网站<strong>一天</strong>只能提供<strong>1GB</strong>的下载额度,并且是<strong>所有用户</strong>的总和(并不是单个用户1GB).请谨慎规划.站主目前正在着手解决这个问题.目前,请遵守下载限制,不要恶意占用大量额度.</p><p>单个文件受到前端上传限制,单次传输<strong>只能传5GB</strong>大小的文件.并且传大文件需要设置分片大小为<strong>最大</strong>.如果需要传大文件,请分隔文件.</p></div><h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2><h3 id="安全性声明"><a href="#安全性声明" class="headerlink" title="安全性声明"></a>安全性声明</h3><p>如果出现因为下载存放在本网站的任何文件而导致的损失(<strong>包括但不限于</strong>:计算机病毒感染,文件丢失,文件损坏等导致无法正常使用文件的情况),站主<strong>不承担任何责任</strong>.</p><h3 id="文件安全说明"><a href="#文件安全说明" class="headerlink" title="文件安全说明"></a>文件安全说明</h3><p>如果出现因为上传文件到此网站而导致的文件外泄(<strong>包括但不限于</strong>:文件被他人下载,网络攻击导致文件泄露,文件被拦截等导致文件泄露的情况),站主<strong>不承担任何责任</strong>.</p><h3 id="传输说明"><a href="#传输说明" class="headerlink" title="传输说明"></a>传输说明</h3><p>如果因为出现任何因为网站<strong>无法访问&#x2F;无法下载</strong>的情况(<strong>包括但不限于</strong>:下载额度全部消耗,过多访问导致网站无法正常访问,网络攻击,网站维护和更新,文件因过期被清理等情况),站主<strong>不承担任何责任</strong>.</p><h3 id="其他说明"><a href="#其他说明" class="headerlink" title="其他说明"></a>其他说明</h3><p>如果因为上传了<strong>永久文件</strong>却并未向站主报告而导致文件被清理,站主<strong>不承担责任</strong>.</p><p>本网站为实验性项目,无法保证网站的<strong>安全性和稳定性</strong>.如果您不信任此网站,请<strong>不要</strong>使用.</p><p>使用本网站即视为同意以上免责声明.</p><h2 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h2><p>最开始想做这个项目的念头来自于Hg在学校因为没有U盘而导致没法把文件从学校带回家这件事.我不喜欢带U盘这种小东西到处走,容易丢,所以做了这个网站.我希望它也能帮助到其他人(虽然免责声明比命长).<em>希望您喜欢(</em></p><p>最开始有这个念头,我以为只需要会写前端(html)就行了,套用现有模板即可.而且最近dsh的出现让我起了”顺便试试”的想法.直到我把我的想法发给deepseek,她才告诉我关于后端的事.</p><p>Hg不会后端,没办法,都甩给AI吧.</p><p>用了以后才知道AI这东西有多<em>轮椅</em>.</p><p><img src="/img/photo3-3.png" alt="欧鲸鲸"></p><p>wcxd这太好用了.</p><p>接着呢,就是不断地优化界面(给AI发需求),不断地修正问题(比如改前端)和搞cloudflare和backblaze.</p><p>到最后直接开始gank域名了.顺路吐槽一句,国内互联网限制真他妈严格.国内的互联网服务商还没有外面那样的.我爱国外的互联网环境(笑</p><p>还有为什么银联卡不能在国外平台(cloudflare)注册😡这他妈假银联吧.</p><p>什么时候环境能好起来啊…我这辈子估计看不到了(绷.</p><p>AI真的能改变世界,至少我不用古法Coding了<br>我该开心还是难过呢?<br>我不知道捏</p><p>不管怎么样,希望你玩得开心!<br>梦想无线!<br><img src="/img/photo3-4.jpeg" alt="撕咬"></p>]]>
+    </content>
+    <id>http://hgo-hg.github.io/2026/10/24/%E6%96%87%E4%BB%B6%E4%B8%AD%E8%BD%AC%E7%AB%99/</id>
+    <link href="http://hgo-hg.github.io/2026/10/24/%E6%96%87%E4%BB%B6%E4%B8%AD%E8%BD%AC%E7%AB%99/"/>
+    <published>2026-10-24T14:36:00.000Z</published>
+    <summary>关于Hg的文件中转站的介绍文章以及使用指南和感悟</summary>
+    <title>文件中转网站和神奇的AI</title>
+    <updated>2026-10-24T16:10:07.930Z</updated>
+  </entry>
   <entry>
     <author>
       <name>HgO-Hg</name>
